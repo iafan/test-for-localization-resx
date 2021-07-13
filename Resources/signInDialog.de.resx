@@ -1,0 +1,13 @@
+<root>
+    <data name="username">
+        <value>Username:</value>
+    </data>
+
+    <data name="password">
+        <value>Password:</value>
+    </data>
+
+    <data name="actionButton">
+        <value>Sign In</value>
+    </data>
+</root>
