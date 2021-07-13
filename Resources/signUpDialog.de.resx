@@ -1,10 +1,10 @@
 <root>
     <data name="username">
-        <value>Username:</value>
+        <value>Nutzername:</value>
     </data>
 
     <data name="password">
-        <value>Password:</value>
+        <value>Passwort:</value>
     </data>
 
     <data name="repeatPassword">
