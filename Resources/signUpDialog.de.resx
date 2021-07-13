@@ -8,13 +8,13 @@
     </data>
 
     <data name="repeatPassword">
-        <value>Password (once again):</value>
+        <value>Passwort (nochmals):</value>
     </data>
 
     <data name="actionButton">
-        <value>Create Account</value>
+        <value>Benutzerkonto erstellen</value>
     </data>
     <data name="cancelButton">
-        <value>Cancel</value>
+        <value>Stornieren</value>
     </data>
 </root>
