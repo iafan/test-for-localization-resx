@@ -1,6 +1,6 @@
 <root>
     <data name="username">
-        <value>Имя пользователя:</value>
+        <value>Имя пользователя:!!!</value>
     </data>
 
     <data name="password">
@@ -8,10 +8,10 @@
     </data>
 
     <data name="repeatPassword">
-        <value>Password (once again):</value>
+        <value>Пароль (еще раз):</value>
     </data>
 
     <data name="actionButton">
-        <value>Create Account</value>
+        <value>Зарегистрироваться</value>
     </data>
 </root>
