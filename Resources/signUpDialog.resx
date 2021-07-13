@@ -1,0 +1,17 @@
+<root>
+    <data name="username">
+        <value>Username:</value>
+    </data>
+
+    <data name="password">
+        <value>Password:</value>
+    </data>
+
+    <data name="repeatPassword">
+        <value>Password (once again):</value>
+    </data>
+
+    <data name="actionButton">
+        <value>Create Account</value>
+    </data>
+</root>
