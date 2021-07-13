@@ -14,7 +14,12 @@
     <data name="actionButton">
         <value>Зарегистрироваться</value>
     </data>
+
     <data name="cancelButton">
         <value>Отмена</value>
+    </data>
+
+    <data name="anotherButton">
+        <value>Another Button</value>
     </data>
 </root>

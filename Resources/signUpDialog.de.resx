@@ -14,7 +14,12 @@
     <data name="actionButton">
         <value>Benutzerkonto erstellen</value>
     </data>
+
     <data name="cancelButton">
         <value>Stornieren</value>
+    </data>
+
+    <data name="anotherButton">
+        <value>Another Button</value>
     </data>
 </root>
