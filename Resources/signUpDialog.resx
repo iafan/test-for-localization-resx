@@ -14,7 +14,12 @@
     <data name="actionButton">
         <value>Create Account</value>
     </data>
+
     <data name="cancelButton">
         <value>Cancel</value>
+    </data>
+
+    <data name="anotherButton">
+        <value>Another Button</value>
     </data>
 </root>
