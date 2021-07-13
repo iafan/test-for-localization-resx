@@ -14,4 +14,7 @@
     <data name="actionButton">
         <value>Зарегистрироваться</value>
     </data>
+    <data name="cancelButton">
+        <value>Cancel</value>
+    </data>
 </root>
