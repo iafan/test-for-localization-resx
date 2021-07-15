@@ -22,4 +22,8 @@
     <data name="yetAnotherButton">
         <value>Еще одна кнопка</value>
     </data>
+
+    <data name="yetAnotherButton2">
+        <value>Еще одна кнопка</value>
+    </data>
 </root>
