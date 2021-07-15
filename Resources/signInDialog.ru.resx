@@ -18,4 +18,8 @@
     <data name="signOutButton">
         <value>Sign Out</value>
     </data>
+
+    <data name="signOutButton2">
+        <value>Sign Out</value>
+    </data>
 </root>

@@ -18,4 +18,8 @@
     <data name="signOutButton">
         <value>Austragen</value>
     </data>
+
+    <data name="signOutButton2">
+        <value>Austragen</value>
+    </data>
 </root>
