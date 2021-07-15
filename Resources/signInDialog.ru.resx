@@ -14,4 +14,8 @@
     <data name="actionButton2">
         <value>Войти</value>
     </data>
+
+    <data name="signOutButton">
+        <value>Sign Out</value>
+    </data>
 </root>
