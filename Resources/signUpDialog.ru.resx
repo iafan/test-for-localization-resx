@@ -19,7 +19,7 @@
         <value>Отмена</value>
     </data>
 
-    <data name="anotherButton">
-        <value>Другая кнопка</value>
+    <data name="yetAnotherButton">
+        <value>Yet Another Button</value>
     </data>
 </root>

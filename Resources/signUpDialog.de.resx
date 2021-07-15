@@ -19,7 +19,7 @@
         <value>Stornieren</value>
     </data>
 
-    <data name="anotherButton">
-        <value>Ein weiterer Knopf</value>
+    <data name="yetAnotherButton">
+        <value>Yet Another Button</value>
     </data>
 </root>
