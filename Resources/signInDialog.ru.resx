@@ -10,4 +10,8 @@
     <data name="actionButton">
         <value>Войти</value>
     </data>
+
+    <data name="actionButton2">
+        <value>Войти</value>
+    </data>
 </root>

@@ -10,4 +10,8 @@
     <data name="actionButton">
         <value>Einloggen</value>
     </data>
+
+    <data name="actionButton2">
+        <value>Einloggen</value>
+    </data>
 </root>
