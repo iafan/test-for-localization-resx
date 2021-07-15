@@ -19,7 +19,7 @@
         <value>Cancel</value>
     </data>
 
-    <data name="anotherButton">
-        <value>Another Button</value>
+    <data name="yetAnotherButton">
+        <value>Yet Another Button</value>
     </data>
 </root>
