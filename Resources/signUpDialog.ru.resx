@@ -1,6 +1,6 @@
 <root>
     <data name="username">
-        <value>Имя пользователя:!!!</value>
+        <value>Имя пользователя:</value>
     </data>
 
     <data name="password">
