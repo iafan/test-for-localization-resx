@@ -8,7 +8,7 @@
     </data>
 
     <data name="yourName">
-        <value>Tell us your name:</value>
+        <value>[DE] Tell us your name:</value>
     </data>
 
     <data name="actionButton">
@@ -28,6 +28,6 @@
     </data>
 
     <data name="signOutButton3">
-        <value>Sign Out</value>
+        <value>Austragen</value>
     </data>
 </root>
