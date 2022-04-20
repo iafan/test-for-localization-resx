@@ -7,6 +7,10 @@
         <value>Passwort?</value>
     </data>
 
+    <data name="yourName">
+        <value>Tell us your name:</value>
+    </data>
+
     <data name="actionButton">
         <value>Einloggen</value>
     </data>
