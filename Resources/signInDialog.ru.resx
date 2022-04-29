@@ -8,14 +8,10 @@
     </data>
 
     <data name="yourName">
-        <value>Укажите ваше имя:</value>
+        <value>Tell us your first name:</value>
     </data>
 
     <data name="actionButton">
-        <value>Войти</value>
-    </data>
-
-    <data name="actionButton2">
         <value>Войти</value>
     </data>
 
@@ -25,6 +21,10 @@
 
     <data name="signOutButton2">
         <value>Выход</value>
+    </data>
+
+    <data name="helkp">
+        <value>Need help?</value>
     </data>
 
     <data name="signOutButton3">
